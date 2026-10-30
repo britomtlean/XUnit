@@ -102,3 +102,4 @@
 /home/mtlean/Documentos/Projects/DotNet/Testes Uni/CalculadoraTeste/obj/Debug/net9.0/CalculadoraTeste.pdb
 /home/mtlean/Documentos/Projects/DotNet/Testes Uni/CalculadoraTeste/obj/Debug/net9.0/CalculadoraTeste.genruntimeconfig.cache
 /home/mtlean/Documentos/Projects/DotNet/Testes Uni/CalculadoraTeste/obj/Debug/net9.0/ref/CalculadoraTeste.dll
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/CalculadoraTeste/obj/Debug/net9.0/CalculadoraTeste.sourcelink.json
