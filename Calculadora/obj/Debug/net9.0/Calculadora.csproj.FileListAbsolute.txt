@@ -1,0 +1,14 @@
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/obj/Debug/net9.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfoInputs.cache
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfo.cs
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/obj/Debug/net9.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/bin/Debug/net9.0/Calculadora
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/bin/Debug/net9.0/Calculadora.deps.json
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/bin/Debug/net9.0/Calculadora.runtimeconfig.json
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/bin/Debug/net9.0/Calculadora.dll
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/bin/Debug/net9.0/Calculadora.pdb
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/obj/Debug/net9.0/Calculadora.dll
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/obj/Debug/net9.0/refint/Calculadora.dll
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/obj/Debug/net9.0/Calculadora.pdb
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/obj/Debug/net9.0/Calculadora.genruntimeconfig.cache
+/home/mtlean/Documentos/Projects/DotNet/Testes Uni/Calculadora/obj/Debug/net9.0/ref/Calculadora.dll
